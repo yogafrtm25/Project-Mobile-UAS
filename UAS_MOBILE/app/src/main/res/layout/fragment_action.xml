@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="15dp"
+    tools:context=".ActionFragment">
+
+    <ImageView
+        android:id="@+id/imgMovie"
+        android:layout_width="150dp"
+        android:layout_height="170dp"
+        android:src="@drawable/film1"/>
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_marginStart="16dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:text="GODZILLA MINUS ONE"/>
+
+    <TextView
+        android:id="@+id/Deskription"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_below="@id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:maxLines="5"
+        android:textColor="@color/black"
+        android:text="Di Jepang pascaperang, teror baru muncul. Akankah orang-orang yang hancur mampu bertahan…apalagi melawan? Godzilla akan berusia 70 tahun pada tahun depan, dan untuk merayakannya, perusahaan induknya, Toho Studios, menunggu hingga akhir tahun ini untuk merilis film Godzilla paling konvensional dalam beberapa tahun terakhir. “Godzilla Minus One” mungkin juga merupakan film Godzilla produksi Jepang yang paling serius dan paling tidak flamboyan sejak gambar asli bencana kadal nuklir tahun 1954 (walaupun penggemar “Godzilla 1985” mungkin tidak setuju). Beberapa ulasan tentang “Godzilla Minus One” telah memuji film tersebut sebagai film yang menyenangkan penonton. Sangat mudah untuk mengetahui alasannya, mengingat nada adegannya yang berpusat pada manusia yang suram namun terkalibrasi dengan baik.
+                      Berlatar tahun 1946, “Godzilla Minus One” mengikuti sekelompok mantan tentara yang kehabisan spiritual saat mereka bersatu untuk mengalahkan antihero kaiju favorit semua orang. Di sini, kehadiran Godzilla sudah pasti, seperti yang mungkin terjadi setelah lusinan film dan proyek spin-off. Jika penyintas yang mengalami trauma seperti pilot kamikaze yang dipermalukan Koichi Shikishima (Ryunosuke Kamiki) tidak dapat menghentikan Godzilla, dia akan menghancurkan Ginza dan kemudian menginjak-injak seluruh Tokyo.
+                      Koichi termotivasi oleh rasa bersalah orang yang selamat. Dalam adegan mapan di Pulau Odo, Koichi membidik Godzilla tetapi tidak sanggup menembak. Akibatnya, beberapa rekan tentara tewas, meninggalkan Koichi untuk menguburkan jenazah mereka. Menghidupkan kembali semangat patriotik Koichi menjadi prioritas karena semangat nasionalis semacam itu tampaknya penting untuk melawan Godzilla. Pada saat yang sama, orang-orang yang dicintai Koichi masih sangat meninggal, jadi sekarang dia harus merawat para penyintas lainnya, yang sebagian besar juga telah kehilangan orang yang mereka cintai, rumah, dan keinginan mereka untuk bertarung. Bagian terakhir itu sangat penting, tetapi mengatasi kemerosotan spiritual juga merupakan bagian besar dari Koichi dan oleh karena itu, kisah Big G dalam “Godzilla Minus One."/>
+
+    <Button
+        android:id="@+id/godzillaminusone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_below="@id/Deskription"
+        android:text="Trailer"
+        android:onClick="playgodzillaminusonetrailer"/>
+
+
+    <ImageView
+        android:id="@+id/imgMovie2"
+        android:layout_width="150dp"
+        android:layout_height="170dp"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/film4"/>
+
+    <TextView
+        android:id="@+id/tvTitle2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgMovie2"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="200dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:text="EXPEND4BLES 4"/>
+
+    <TextView
+        android:id="@+id/Deskription2"
+        android:layout_toRightOf="@id/imgMovie2"
+        android:layout_below="@id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="210dp"
+        android:maxLines="5"
+        android:textColor="@color/black"
+        android:text="Expend4bles (atau The Expendables 4) adalah sebuah film aksi Amerika tahun 2023 yang disutradarai Scott Waugh dari skenario karya Kurt Wimmer, Tad Daggerhart, dan Max Adams, berdasarkan cerita karangan Spenser Cohen, Wimmer, dan Daggerhart. Merupakan sekuel dari The Expendables 3 (2014) dan seri keempat dari The Expendables. Dibintangi oleh Sylvester Stallone, Jason Statham, Dolph Lundgren, dan Randy Couture, dengan Curtis Jackson, Megan Fox, Tony Jaa, Iko Uwais, dan Andy García turut meramaikan"/>
+
+    <Button
+        android:id="@+id/expend4bles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imgMovie2"
+        android:layout_below="@id/Deskription2"
+        android:text="Trailer"
+        android:onClick="playExpendablesTrailer"/>
+
+    <ImageView
+        android:id="@+id/imgMovie3"
+        android:layout_width="150dp"
+        android:layout_height="170dp"
+        android:layout_marginTop="400dp"
+        android:src="@drawable/film5"/>
+
+    <TextView
+        android:id="@+id/tvTitle3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgMovie3"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="400dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:text="TRANSFORMERS"/>
+
+    <TextView
+        android:id="@+id/Deskription3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTitle"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="414dp"
+        android:layout_toRightOf="@id/imgMovie3"
+        android:maxLines="5"
+        android:text="Film ini terinspirasi oleh mainan Transformer yang memutar dan melipat dan menggandakan diri, seperti Rubik’s Cube yang disilangkan dengan manusia karet. Camaro kuning terungkap menjadi robot raksasa, helikopter menjadi monster yang bisa mati, dan musuh bernama Megatron bergemuruh ke layar dan, dengan suara yang menyerupai efek suara dalam “Gempa Bumi,” memperkenalkan dirinya: “I-AM – MEGATRON !!! ”"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/transformers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imgMovie3"
+        android:layout_below="@id/Deskription3"
+        android:text="Trailer"
+        android:onClick="playtranformersTrailer" />
+</RelativeLayout>

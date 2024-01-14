@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp">
+
+    <ImageView
+        android:id="@+id/imgMovie"
+        android:layout_width="150dp"
+        android:layout_height="170dp"
+        android:src="@drawable/film3"/>
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@id/imgMovie"
+        android:text="172 Days"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/Deskription"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_below="@id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:maxLines="5"
+        android:textColor="@color/black"
+        android:text="Seorang perempuan bernama Nadzira Shafa memutuskan untuk berhijrah dan ingin menjalani kehidupan yang lebih baik. Dari proses hijrahnya tersebut, Nadzira Shafa mulai banyak mempelajari tentang ilmu agama serta kerap kali hadir dalam suatu majlis pengajian. Pada suatu hari di tempat pengajiannya tersebut, Nadzira Shafa menjumpai seorang ustad yang bernama Ameer Azzikra." />
+
+    <Button
+        android:id="@+id/day172"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_below="@id/Deskription"
+        android:text="Trailer"
+        android:onClick="playday172trailer"/>
+
+    <ImageView
+        android:id="@+id/imgMovie2"
+        android:layout_width="150dp"
+        android:layout_height="170dp"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/film8"/>
+
+    <TextView
+        android:id="@+id/tvTitle2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="200dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:text="CATATAN SI BOY"/>
+
+    <TextView
+        android:id="@+id/Deskription2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTitle"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="210dp"
+        android:layout_toRightOf="@id/imgMovie"
+        android:maxLines="5"
+        android:textColor="@color/black"
+        android:text="Catatan Si Boy menceritakan kehidupan anak muda Jakarta bernama Boy dengan segala tantangan yang dia hadapi mulai dari percintaan, persahabatan, keluarga, dan cita-cita.
+
+                        Boy (Angga Yunanda) merupakan laki-laki kaya yang memiliki kekasih bernama Nuke (Syifa Hadju) yang harus melanjutkan pendidikannya di luar negeri.
+
+                        Ketika menjalankan hubungan jarak jauh itu, Boy justru terlibat asmara dengan perempuan lain bernama Vera (Alyssa Daguise).
+
+                        Boy pun harus berhadapan dengan kisah cinta segitiga yang pelik yang menjadi sorotan dalam film ini." />
+
+    <Button
+        android:id="@+id/catatansiboy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_below="@id/Deskription2"
+        android:text="Trailer"
+        android:onClick="playCatatansiboyTrailer"/>
+
+    <ImageView
+        android:id="@+id/imgMovie3"
+        android:layout_width="150dp"
+        android:layout_height="175dp"
+        android:layout_marginTop="400dp"
+        android:src="@drawable/film9"/>
+
+    <TextView
+        android:id="@+id/tvTitle3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="400dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:text="GALAKSI"/>
+
+    <TextView
+        android:id="@+id/Deskription3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTitle"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="410dp"
+        android:layout_toRightOf="@id/imgMovie"
+        android:maxLines="5"
+        android:textColor="@color/black"
+        android:text="Seorang siswa SMA bernama Galaksi Aldebaran. Ia diketahui bergabung di dalam sebuah geng bernama Ravispa dan menjadi ketua geng yang cukup disegani dan ditakuti di sekolahnya. Suatu hari tanpa sengaja, Galaksi bertemu dengan seorang gadis bernama Kejora diketahui Kejora adalah salah satu anggota paskibra di sekolah mereka. Pertemuan Kejora dan Galaksi sendiri berawal saat Kejora mulai berurusan dengan geng sekolah lain yaitu Avegar yang merupakan rival dari geng Ravista. Sejak saat itu keduanya terlibat dalam hubungan kisah romansa yang cukup pelik, konflik antargeng membuat posisi Kejora tidak aman. Sehingga Galaksi harus melindungi Kejora, dari rasa ingin melindungi itulah, tanpa Galaksi sadari ternyata ia telah jatuh hati dengan gadis cantik tersebut." />
+
+    <Button
+        android:id="@+id/galaksi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imgMovie"
+        android:layout_below="@id/Deskription3"
+        android:text="Trailer"
+        android:onClick="playGalaksiTrailer"/>
+</RelativeLayout>

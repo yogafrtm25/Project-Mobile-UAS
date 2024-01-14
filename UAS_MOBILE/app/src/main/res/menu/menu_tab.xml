@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_Action"
+        android:icon="@drawable/baseline_more_vert_24"
+        android:title="ACTION"/>
+
+    <item
+        android:id="@+id/tab_Comedy"
+        android:icon="@drawable/baseline_more_vert_24"
+        android:title="COMEDY"/>
+
+    <item
+        android:id="@+id/tab_Romance"
+        android:icon="@drawable/baseline_more_vert_24"
+        android:title="ROMANCE"/>
+</menu>
