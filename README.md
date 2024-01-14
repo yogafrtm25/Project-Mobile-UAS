@@ -82,9 +82,15 @@ Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br>
         });
     ```
   - Source Code Menu Movie</br>
-    
-
-
+          - FragmentActivity.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/FragmentActivity.java)<br>
+          - ActionFragment.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/ActionFragment.java)<br>
+          - ComedyFragment.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/ComedyFragment.java)<br> 
+          - RomaceFragment.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/RomanceFragment.java)<br>
+          - Activity_Movie.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/activity_movie.xml)<br>
+          - Fragment_Action.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_action.xml)<br>
+          - Fragment_Comedy.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_comedy.xml)<br>
+          - Fragment_Romance.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_romance.xml)<br>
+          
 
 
 
