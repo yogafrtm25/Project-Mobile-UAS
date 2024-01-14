@@ -30,21 +30,33 @@ Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br>
   - Source Code Menu Hello Word </br>
         - HelloActivity.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/HelloActivity.java)<br>
         - Activity_Hello.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/activity_hello.xml)<br>
+        - Hasil Run Menu Hello
+    
+https://github.com/yogafrtm25/Project-Mobile-UAS/assets/115678171/4e90153c-f69a-4648-8ea8-1020feefd388
         
   - Source Code Menu Count</br>
         - CountActivity.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/CountActivity.java)<br>
         - Activity_Count.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/activity_count.xml)<br>
+        - Hasil Run Menu Count
+
+https://github.com/yogafrtm25/Project-Mobile-UAS/assets/115678171/e8ba13c3-4453-4005-8352-bfea78efa7d6
 
   - Souce Code Menu Scroll Movie</br>
         - SianidaActivity.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/SianidaActivity.java)<br>
         - Activity_Sianida.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/activity_sianida.xml)<br>
-        
+        - Hasil Run Menu Sianida
+    
+https://github.com/yogafrtm25/Project-Mobile-UAS/assets/115678171/d4bc97ed-4606-415b-b2e2-aa10c6502ab9
+    
   - Source Code Menu Two Activity</br>
         - TwoActivity.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/TwoactActivity.java)<br>
         - TwoActivity2.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/Twoact2Activity.java)<br>
         - Activity_Twoact.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/activity_twoact.xml)<br>
         - Activity_Twoact2.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/activity_twoact2.xml)<br>
-        
+        - Hasil Run Two Activity
+
+https://github.com/yogafrtm25/Project-Mobile-UAS/assets/115678171/2dfde2af-3290-4844-a2d0-8bc8fe302807
+
   - Source Code Menu Alarm
         - Karena program ini hanya merupakan tombol, maka hanya tinggal menambahkan baris code berikut :<br>
      ```
@@ -70,7 +82,10 @@ Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br>
         <action android:name="android.intent.action.SET_ALARM" />
 
                 ```
-        
+   - Hasil Run Set Alarm
+
+https://github.com/yogafrtm25/Project-Mobile-UAS/assets/115678171/8e396c3c-7ead-4338-9141-029a42531f84
+      
   - Source Code Menu Maps</br>
     ```
     # Tambahkan code ini didalam protected void OnCreate :
@@ -90,6 +105,7 @@ Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br>
           - Fragment_Action.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_action.xml)<br>
           - Fragment_Comedy.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_comedy.xml)<br>
           - Fragment_Romance.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_romance.xml)<br>
+          - Hasil Run Movie
           
 
 
