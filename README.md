@@ -16,7 +16,10 @@ Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br>
 ## Source Code
 <p align="justify"> jika saya beri satu persatu source code nya akan menjadi terlalu banyak,maka source code akan saya beri dengan filennya saja yang dibuka.</p>
 
-  - Source Code  MainActivity.java [Lihat File](Project_UAS_Mobile/UASMOBILE/app/src/main/java/com/example/tugassepuluh/MainActivity.java)
+  - Source Code Menu Utama<br>
+        - MainActivity.java [Lihat File](UAS_MOBILE/app/src/main/java/com/example/appintent/MainActivity.java)<br>
+        - Activity_Main.xml [Lihat File](UAS_MOBILE/app/src/main/res/layout/activity_main.xml)<br>
+  
 
 
 
