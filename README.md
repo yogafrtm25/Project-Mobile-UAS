@@ -13,6 +13,18 @@ Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br>
 ## TUGAS
 <p align="justify"> Tugas Project UAS ini adalah mengumpulkan semua hasil yang sudah dibuat dari pertemuan pertama sampai akhir, hasil dari semua project tersebut digabungkan dalam satu Aplikasi. Berikut ini semua code yang telah Saya buat.</p>
 
+## Penjelasan 
+Saya akan Menampilkan sebuah project yang sudah saya buat dari pertemuan 1 hingga pertemuan 15 serta menampilkan Source Code dari menu Hello Word, Menu Count, Menu Scroll Movie Sianida, 
+Menu TwoActivity, Menu Alarm, Menu Gmaps,Serta Menu Movie , Fragment Movie memakai Raw untuk menampilkan Videonya/Trailernya.
+
+## DAFTAR ISI <br>
+| No | Description | Link |
+|-----|------|-----|
+|1|TUGAS|[Click Here](#tugas)|
+|2|Penjelasan|[Click Here](#penjelasan)|
+|3|Souce Code|[Click Here](#source-code)|
+
+
 ## Source Code
 <p align="justify"> jika saya beri satu persatu source code nya akan menjadi terlalu banyak,maka source code akan saya beri dengan filennya saja yang dibuka.</p>
 
