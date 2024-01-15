@@ -13,10 +13,6 @@ Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br>
 ## TUGAS
 <p align="justify"> Tugas Project UAS ini adalah mengumpulkan semua hasil yang sudah dibuat dari pertemuan pertama sampai akhir, hasil dari semua project tersebut digabungkan dalam satu Aplikasi. Berikut ini semua code yang telah Saya buat.</p>
 
-## Penjelasan 
-Saya akan Menampilkan sebuah project yang sudah saya buat dari pertemuan 1 hingga pertemuan 15 serta menampilkan Source Code dari menu Hello Word, Menu Count, Menu Scroll Movie Sianida, 
-Menu TwoActivity, Menu Alarm, Menu Gmaps,Serta Menu Movie , Fragment Movie memakai Raw untuk menampilkan Videonya/Trailernya.
-
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
@@ -25,12 +21,17 @@ Menu TwoActivity, Menu Alarm, Menu Gmaps,Serta Menu Movie , Fragment Movie memak
 |3|Souce Code|[Click Here](#source-code)|
 
 
+## Penjelasan 
+Saya akan Menampilkan sebuah project yang sudah saya buat dari pertemuan 1 hingga pertemuan 15 serta menampilkan Source Code dari menu Hello Word, Menu Count, Menu Scroll Movie Sianida, 
+Menu TwoActivity, Menu Alarm, Menu Gmaps,Serta Menu Movie , Fragment Movie memakai Raw untuk menampilkan Videonya/Trailernya.
+
+
 ## Source Code
 <p align="justify"> jika saya beri satu persatu source code nya akan menjadi terlalu banyak,maka source code akan saya beri dengan filennya saja yang dibuka.</p>
 
   - Source Code SplashScreen<br>
-        - SplashScreen.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/SplashScreen.java)<br>
-        - Logo SplashScreen [Lihat Source Code](UAS_MOBILE/app/src/main/res/drawable/backgroundlauncher.xml)<br>
+        - SplashScreen.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/SplashScreen.java)<br> Splashscreen.java berguna untuk menampilkan logo splashscreen<br>
+        - Logo SplashScreen [Lihat Source Code](UAS_MOBILE/app/src/main/res/drawable/backgroundlauncher.xml)<br> Ini adalah tampilan dari Souce code Logo SplashScreen<br>
   
   - Source Code Menu Utama<br>
         - MainActivity.java [Lihat Source Code](UAS_MOBILE/app/src/main/java/com/example/appintent/MainActivity.java)<br>
