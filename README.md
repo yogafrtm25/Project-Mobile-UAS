@@ -110,7 +110,8 @@ https://github.com/yogafrtm25/Project-Mobile-UAS/assets/115678171/d80de75d-685b-
           - Fragment_Action.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_action.xml)<br>
           - Fragment_Comedy.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_comedy.xml)<br>
           - Fragment_Romance.xml [Lihat Source Code](UAS_MOBILE/app/src/main/res/layout/fragment_romance.xml)<br>
-          - Hasil Run Movie
+          - Hasil Run Movie</br>
+          
 https://github.com/yogafrtm25/Project-Mobile-UAS/assets/115678171/8bd40bd3-8781-4d31-89aa-9aa0b0372132
 
 
